@@ -1,7 +1,7 @@
 # EXCEL-Sales-Analytics
 # 📈 Sales & Finance Analytics Dashboard
 
-This repository showcases a comprehensive analysis of sales and financial performance using Excel and Power BI. It includes customer performance reports, market vs. sales target comparisons, and Profit & Loss (P&L) statements segmented by fiscal year, month, and market.
+This repository showcases a comprehensive analysis of sales and financial performance using Excel . It includes customer performance reports, market vs. sales target comparisons, and Profit & Loss (P&L) statements segmented by fiscal year, month, and market.
 
 ---
 
